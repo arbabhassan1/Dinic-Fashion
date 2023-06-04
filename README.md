@@ -3,7 +3,7 @@
 
 Redefining Style, Empowering Individuals.
 ## 🔗 Demo
-[Live Preview](https://bit.ly/43kctmx/)
+[Live Preview](https://arbabhassan1.github.io/Dinic-Fashion/)
 
 ## Screenshoot
 ![IMG-100](https://github.com/arbabhassan1/Dinic-Fashion/assets/118005911/5d866ff1-9635-4ee6-b37c-99541452864b)
